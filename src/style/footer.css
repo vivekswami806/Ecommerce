@@ -1,0 +1,21 @@
+
+
+.FooterPage{
+    text-align: center;
+    width: 100%;
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    flex-direction: column;
+    
+  }
+  .footerLi{
+  
+  list-style: none;
+  gap: 20px;
+  margin-top: 40px;
+  width: 100%;
+  margin: 20px;
+  }
+  

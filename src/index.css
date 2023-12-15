@@ -1,0 +1,43 @@
+
+
+.formContact{
+  display: flex;
+  margin: 20px;
+  
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.Aboutimg{
+  border-radius: 10px;
+  height: 25rem;
+  gap: 20px;
+}
+
+.HomeImage{
+  height: 35vh;
+  border-radius: 10px;
+}
+.imageHome{
+ height: 30vh;
+ width: 25rem;
+}
+.imageHomelast{
+  gap: 10px;
+}
+.NavBtn{
+  /* border: solid  white; */
+  /* color: aqua; */
+  
+  height: 30px;
+  font-weight: bolder;
+}
+.visitCompanyHome{
+  border-radius: 30px;
+  background-color: blue;
+  height: 8vh;
+  width: 15rem;
+  font-size: 23px;
+}
